@@ -1,0 +1,14 @@
+{
+  "name": "grow",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "xeue-logs": "^2.3.6",
+    "xeue-shell": "^1.4.2"
+  }
+}
